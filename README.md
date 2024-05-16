@@ -26,7 +26,7 @@ To use the application, follow these steps:
 3)Enter the required information for each input feature.     
 4)Click the _**"Predict"**_ button to obtain the prediction.                          
 
-**Development Environment**
-IDE: Jupyter Lab
-Web Framework: Streamlit
-Programming Language: Python
+**Development Environment**        
+IDE: Jupyter Lab    
+Web Framework: Streamlit    
+Programming Language: Python     
