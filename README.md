@@ -21,10 +21,10 @@ The model takes into consideration the following 13 input features:
 **Usage**
 To use the application, follow these steps:
 
-Install the necessary dependencies by running **_pip install -r requirements.txt._**
-Run the application using **_streamlit run app.py._**
-Enter the required information for each input feature.
-Click the _**"Predict"**_ button to obtain the prediction.
+1)Install the necessary dependencies by running **_pip install -r requirements.txt._**   
+2)Run the application using **_streamlit run app.py._**
+3)Enter the required information for each input feature.
+4)Click the _**"Predict"**_ button to obtain the prediction.
 
 **Development Environment**
 IDE: Jupyter Lab
