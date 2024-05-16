@@ -4,27 +4,27 @@ This project implements a machine learning model for predicting the likelihood o
 **Features**
 The model takes into consideration the following 13 input features:
 
-1)Age
-2)Current smoker status
-3)Number of cigarettes per day
-4)Blood pressure medication status
-5)History of stroke
-6)Prevalent hypertension status
-7)Diabetes status
-8)Total cholesterol level
-9)Systolic blood pressure
-10)Diastolic blood pressure
-11)Body Mass Index (BMI)
-12)Heart rate
-13)Glucose level
+1)Age                            
+2)Current smoker status                                                    
+3)Number of cigarettes per day                              
+4)Blood pressure medication status     
+5)History of stroke    
+6)Prevalent hypertension status   
+7)Diabetes status      
+8)Total cholesterol level       
+9)Systolic blood pressure         
+10)Diastolic blood pressure          
+11)Body Mass Index (BMI)         
+12)Heart rate          
+13)Glucose level        
 
 **Usage**
 To use the application, follow these steps:
 
 1)Install the necessary dependencies by running **_pip install -r requirements.txt._**   
-2)Run the application using **_streamlit run app.py._**
-3)Enter the required information for each input feature.
-4)Click the _**"Predict"**_ button to obtain the prediction.
+2)Run the application using **_streamlit run app.py._**       
+3)Enter the required information for each input feature.     
+4)Click the _**"Predict"**_ button to obtain the prediction.                          
 
 **Development Environment**
 IDE: Jupyter Lab
